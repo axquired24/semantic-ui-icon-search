@@ -11,3 +11,4 @@ $ Run index.html
 ```
 
 ### Preview 
+![Preview](https://github.com/axquired24/semantic-ui-icon-search/blob/master/preview.png)
