@@ -6,7 +6,7 @@ Forked from [Jakka Prihatna](https://codepen.io/IronGeek/)
 ### How to
 ----------
 ```
-$ git clone
+$ git clone https://github.com/axquired24/semantic-ui-icon-search.git
 $ Run index.html
 ```
 
